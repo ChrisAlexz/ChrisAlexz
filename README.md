@@ -8,6 +8,6 @@
    I also fine-tune LLMs — most recently a Qwen2.5-7B interviewer for [**Final Round**](https://github.com/vkr-vavilla/Senior_Design), an AI
   mock-interview platform.
 
-  ⚡ For something low-level, see my [**HTTP/1.1 server in C++**](https://github.com/ChrisAlexz/LinuxServer) — epoll, thread pool, ~36k req/s.
+  For something low-level, see my [**HTTP/1.1 server in C++**](https://github.com/ChrisAlexz/LinuxServer) — epoll, thread pool, ~36k req/s.
   
-  🌐 More at **[christian-hernandez.com](https://christian-hernandez.com)**
+   More at **[christian-hernandez.com](https://christian-hernandez.com)**
