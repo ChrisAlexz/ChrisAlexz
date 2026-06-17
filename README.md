@@ -1,4 +1,4 @@
- ### Hi, I'm Christian@
+ ### Hi, I'm Christian
 
   Software engineer student focused on **full-stack** and **applied AI** — I build fast systems, fine-tune models, and ship products.
 
