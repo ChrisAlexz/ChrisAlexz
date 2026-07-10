@@ -1,7 +1,5 @@
 # Hi, I'm Christian
 
-Software engineering student and platform engineering intern. I like building reliable systems and shipping products — across cloud infrastructure, systems programming, and applied AI.
-
 Currently a Core Platform Engineer Intern @ Veryable, working across a production Kubernetes microservices platform — authoring Helm charts, hardening workloads for resilience, and shipping changes through a staging to QA to production pipeline on CircleCI. Currently I am working with Kubernetes, Helm, Istio, and Docker as the platform migrates from a monolith to microservices.
 
 Alongside that I'm building LenseIQ: an AI sports-highlight generator (Go microservices + Deepgram). I'm also getting into fine tuning LLMs, most recently a Qwen2.5-7B mock interviewer for Final Round, an AI mock-interview platform.
